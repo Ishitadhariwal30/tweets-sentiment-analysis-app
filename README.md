@@ -26,7 +26,7 @@
    
    
    ```python
-   git clone https://github.com/Ag994/tweets-analysis-app.git
+   git clone  https://github.com/Ishitadhariwal30/tweets-sentiment-analysis-app.git
    cd tweet-analysis-app
    ```
    
