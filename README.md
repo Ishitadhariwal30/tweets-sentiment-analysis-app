@@ -2,11 +2,7 @@
   <p> This app is built using Python, NLTK, and Streamlit. It allows users to input a Twitter 
   <br> handle and analyze the sentiment of their recent tweets. </p>
   
-  ![](https://github.com/Ishitadhariwal30/tweets-sentiment-analysis-app/blob/main/app.png.mp4)
-  
-<!--   [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ag994-tweets-analysis-app-app-7qap5z.streamlit.app/) -->
-  
-<!--   [![Streamlit App](https://ag994-tweets-sentiment-analysis-app-using-nltk-and-a-app-ne300f.streamlit.app/) -->
+   https://github.com/Ishitadhariwal30/tweets-sentiment-analysis-app/blob/main/app.mp4
   
   ## Getting Started
    To use this app, follow these steps:
